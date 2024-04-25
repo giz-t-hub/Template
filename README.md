@@ -13,8 +13,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
-- [Climate and energy policies](#climate-energy-policies) 
-- [EU accession](#eu-accession)
+- [Climate and energy policies](#climate-energy-policies)
+- [Urban and regional development](#urban)
+- [EU accession and cooperation](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)  
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
@@ -50,6 +51,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Energy policy 
     
 
+### Urban and regional development <a name="#urban"></a> 
+
+- 
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 

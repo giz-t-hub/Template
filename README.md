@@ -27,19 +27,26 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
-- Transport
+Transport:
+- 
 
-- General
+General:
+- 
 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
-- Railways:
+Railways:
+- 
  
-- Roads:
+Roads:
+- 
     
-- Inland waterways, ports:
-- Aviation:
+Inland waterways, ports:
+- 
+
+Aviation:
+- 
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -89,9 +96,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Data <a name="data"></a>
 
-- SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
-- SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
-- Asian Transport Outlook: https://asiantransportoutlook.com/ 
+- 
 
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
@@ -106,4 +111,4 @@ For more information about our work, please refer to:
 		
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of April 2024)
+- (as of February 2025)
